@@ -1,5 +1,7 @@
 body{
+  background-image: url(/src/img/big-graph.png);
   background-repeat: no-repeat; 
+  background-position: center top; /* i love mdn */
   padding: 10px;
   margin: 0px;
   text-align: justify;
@@ -11,6 +13,7 @@ p:first-letter {
 
 h1{
   text-align: center;
+  text-transform: uppercase;
 }
 
 h2, h3{
@@ -25,7 +28,12 @@ h2, h3{
   padding: 10px;
   font-style: italic;
   font-size: 0.7em;
-  color: #FF0000;
+  border:#FF0000 solid 1px;
+}
+
+#jobbra img {
+  width: 400px;
+  background-color: #FFFFFF;
 }
 
 .kerdeskep{
