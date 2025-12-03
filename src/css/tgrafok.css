@@ -30,11 +30,11 @@ h2, h3{
   font-size: 0.7em;
   color: #FF0000;
   border:#FF0000 solid 1px;
+  background-color: #FFFFFF;
 }
 
 #jobbra img {
   width: 400px;
-  background-color: #FFFFFF;
 }
 
 .kerdeskep{
