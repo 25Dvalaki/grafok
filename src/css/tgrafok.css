@@ -11,6 +11,11 @@ p:first-letter {
   margin-left:15px;
 }
 
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
 h1{
   text-align: center;
   text-transform: uppercase;
